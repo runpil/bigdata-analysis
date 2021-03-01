@@ -63,3 +63,32 @@
   - 총계처리
   - 데이터 마스킹
   - ** 데이터 표본화는 아님
+
+### 2020.03.01
+- 분석 마스터 플랜
+  - 분석 과제를 수행함으에 있어 그 과제의 목적이나 목표에 따러 전체적인 방향성을 제시하는 기본계획
+- 분석 방법론의 구성요건
+  - 상세한 절차(Procedures)
+  - 방법(Methods)
+  - 도구와 기법(Tools & Techniques)
+  - 템플릿과 산출불(Templates & Outputs)
+  - 어느 정도의 지식만 있으면 활용 가능한 수준의 난이도
+- KDD(Knowledge Discovery in Database) 분석 방법론 분석절차
+  - 데이터셋 선택(Selection)
+  - 데이터 전처리(Preprocessing)
+  - 데이터 변환(Transformation)
+  - 데이터 마이닝(Data Mining)
+  - 데이터 마이닝 결과 평가(Interpretation / Evaluation)
+- CRISP-DM(Cross Industry Standard Process for Data Mining) 분석 방법론 분석절차
+  - 업무 이해(Business Understanding)
+  - 데이터 이해(Data Undersanding)
+  - 데이터 준비(Data Preparation)
+  - 모델링(Modeling)
+  - 평가(Evaluation)
+  - 전개(Deployment)
+- SEMMA(Sample, Explore, Modify, Model and Assess) 분석 방법론 분석절차
+  - 추출(Sample)
+  - 탐색(Explore)
+  - 수정(Modify)
+  - 모델링(Model)
+  - 평가(Assess)
